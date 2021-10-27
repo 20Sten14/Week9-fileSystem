@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\fileSystem\\fileSystem\\fileSystem.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Titpe21\\fileSystem\\fileSystem\\fileSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\fileSystem\\fileSystem\\fileSystem.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Titpe21\\fileSystem\\fileSystem\\fileSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\fileSystem\\fileSystem\\fileSystem.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Titpe21\\fileSystem\\fileSystem\\fileSystem.csproj",
         "projectName": "fileSystem",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\fileSystem\\fileSystem\\fileSystem.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\fileSystem\\fileSystem\\fileSystem.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\fileSystem\\fileSystem\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\fileSystem\\fileSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
